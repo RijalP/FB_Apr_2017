@@ -1,0 +1,240 @@
+2017-03-25 19:47:32,477 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-25 19:47:41,031 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-25 19:53:24,383 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-25 19:53:31,488 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-25 19:55:59,348 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-25 19:56:07,536 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-27 15:07:59,605 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-27 15:08:08,985 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-27 15:08:08,986 [main] ERROR seltest12.testSeltest - logger error
+2017-03-27 15:49:00,567 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-27 15:49:09,380 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-27 15:49:09,381 [main] ERROR seltest12.testSeltest - logger error
+2017-03-27 17:04:32,587 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-27 17:04:39,900 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-27 17:04:39,901 [main] ERROR seltest12.testSeltest - logger error
+2017-03-27 17:08:15,026 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-27 17:11:08,981 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-27 17:13:19,098 [main] INFO seltest12.testSeltest - testLogingFB started
+2017-03-27 17:13:26,116 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-27 17:13:26,118 [main] ERROR seltest12.testSeltest - logger error
+2017-03-27 17:24:05,985 [main] INFO seltest12.testSeltest - testLogingFB started at 1490649845984
+2017-03-27 17:24:13,430 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-27 17:24:13,431 [main] ERROR seltest12.testSeltest - logger error
+2017-03-27 17:40:02,733 [main] INFO seltest12.testSeltest - testLogingFB started at CURRENTTIME: 1490650802733
+2017-03-27 17:48:03,321 [main] INFO seltest12.testSeltest - testLogingFB started at CURRENTTIME: 1490651283320
+2017-03-27 17:48:10,781 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-27 17:48:10,782 [main] ERROR seltest12.testSeltest - logger error
+2017-03-27 21:45:57,469 [main] INFO seltest12.testSeltest - testLogingFB started at CURRENTTIME: 1490665557468
+2017-03-27 21:46:05,092 [main] INFO seltest12.testSeltest - LoginFB...completed
+2017-03-27 21:46:05,093 [main] ERROR seltest12.testSeltest - logger error
+2017-03-27 22:06:02,021 [main] INFO seltest12.testSeltest - testLogingFB started at CURRENTTIME of : 2017/03/27 22:06:02
+2017-03-27 22:06:10,595 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/03/27 22:06:02
+2017-03-27 22:06:10,596 [main] ERROR seltest12.testSeltest - logger error
+2017-03-27 22:35:20,128 [main] INFO seltest12.testSeltest - Test method testLogingFB started at CURRENTTIME of : 2017/03/27 22:35:20
+2017-03-27 22:35:27,859 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/03/27 22:35:20
+2017-03-27 22:35:27,860 [main] ERROR seltest12.testSeltest - logger error
+2017-03-29 00:23:24,187 [main] INFO seltest12.testProfile - Test method testStatusEntry started at CURRENTTIME of : 2017/03/29 00:23:24
+2017-03-29 00:27:06,369 [main] INFO seltest12.testProfile - Test method testStatusEntry started at CURRENTTIME of : 2017/03/29 00:27:06
+2017-03-29 18:06:08,189 [main] INFO seltest12.testSeltest - Test method testLogingFB started at CURRENTTIME of : 2017/03/29 18:06:08
+2017-03-29 18:06:16,533 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/03/29 18:06:08
+2017-03-29 18:06:16,533 [main] ERROR seltest12.testSeltest - logger error
+2017-03-29 18:06:16,545 [main] INFO seltest12.testProfile - Test method testStatusEntry started at CURRENTTIME of : 2017/03/29 18:06:08
+2017-03-29 18:28:09,201 [main] INFO seltest12.testProfile - Test method testStatusEntry started at CURRENTTIME of : 2017/03/29 18:28:09
+2017-03-29 19:47:54,107 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/29 19:47:54
+2017-03-29 19:48:04,106 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/03/29 19:47:54
+2017-03-29 19:48:04,107 [main] ERROR seltest12.testSeltest - logger error
+2017-03-29 19:50:05,029 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/29 19:50:05
+2017-03-29 19:50:13,068 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/03/29 19:50:05
+2017-03-29 19:50:13,069 [main] ERROR seltest12.testSeltest - logger error
+2017-03-29 19:52:37,923 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/29 19:52:37
+2017-03-29 19:52:46,808 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/03/29 19:52:37
+2017-03-29 19:52:46,809 [main] ERROR seltest12.testSeltest - logger error
+2017-03-29 19:53:41,465 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/29 19:53:41
+2017-03-29 19:53:48,860 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/03/29 19:53:41
+2017-03-29 19:53:48,861 [main] ERROR seltest12.testSeltest - logger error
+2017-03-30 19:48:18,634 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/30 19:48:18
+2017-03-30 19:48:22,708 [main] INFO seltest12.testProfile - Test2 method testStatusEntry started at CURRENTTIME of : 2017/03/30 19:48:18
+2017-03-30 19:50:41,152 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/30 19:50:41
+2017-03-30 19:50:46,254 [main] INFO seltest12.testProfile - Test2 method testStatusEntry started at CURRENTTIME of : 2017/03/30 19:50:41
+2017-03-30 19:54:18,481 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/30 19:54:18
+2017-03-30 19:54:25,226 [main] INFO seltest12.testProfile - Test2 method testStatusEntry started at CURRENTTIME of : 2017/03/30 19:54:18
+2017-03-30 19:57:12,230 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/30 19:57:12
+2017-03-30 19:57:29,402 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/30 19:57:29
+2017-03-30 19:57:59,479 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/03/30 19:57:59
+2017-04-07 11:01:39,345 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/07 11:01:39
+2017-04-07 11:20:03,798 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/07 11:20:03
+2017-04-07 12:44:05,112 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/07 12:44:05
+2017-04-07 12:53:52,122 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/07 12:53:52
+2017-04-07 12:53:59,280 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/07 12:53:52
+2017-04-07 12:53:59,281 [main] ERROR seltest12.testSeltest - logger error
+2017-04-07 13:32:15,258 [main] INFO seltest12.testProfile - Test2 method testStatusEntry started at CURRENTTIME of : 2017/04/07 13:32:15
+2017-04-07 13:50:57,552 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/07 13:50:57
+2017-04-07 13:51:08,266 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/07 13:50:57
+2017-04-07 13:51:08,267 [main] ERROR seltest12.testSeltest - logger error
+2017-04-07 13:51:08,273 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest
+2017-04-07 13:51:59,816 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/07 13:51:59
+2017-04-07 13:52:09,117 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/07 13:51:59
+2017-04-07 13:52:09,118 [main] ERROR seltest12.testSeltest - logger error
+2017-04-07 13:52:09,124 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest
+2017-04-07 14:03:53,864 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/07 14:03:53
+2017-04-07 14:04:03,742 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/07 14:03:53
+2017-04-07 14:04:03,743 [main] ERROR seltest12.testSeltest - logger error
+2017-04-07 14:04:03,749 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest
+2017-04-10 10:41:57,020 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 10:41:57
+2017-04-10 10:42:09,823 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 10:41:57
+2017-04-10 10:42:09,825 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 10:42:09,834 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest
+2017-04-10 10:46:21,231 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 10:46:21
+2017-04-10 10:46:32,326 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 10:46:21
+2017-04-10 10:46:32,327 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 10:48:44,764 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 10:48:44
+2017-04-10 10:48:53,478 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 10:48:44
+2017-04-10 10:48:53,480 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 10:48:53,488 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 10:48:44
+2017-04-10 10:52:13,927 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 10:52:13
+2017-04-10 10:52:23,855 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 10:52:13
+2017-04-10 10:52:23,858 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 10:52:23,864 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 10:52:13
+2017-04-10 10:54:25,532 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 10:54:25
+2017-04-10 10:54:34,671 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 10:54:25
+2017-04-10 10:54:34,674 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 10:54:34,685 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 10:54:25
+2017-04-10 10:55:01,803 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 10:55:01
+2017-04-10 10:55:10,458 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 10:55:01
+2017-04-10 10:55:10,460 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 10:55:10,469 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 10:55:01
+2017-04-10 11:02:05,564 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:02:05
+2017-04-10 11:02:17,775 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:02:05
+2017-04-10 11:02:17,777 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:02:17,784 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:02:05
+2017-04-10 11:05:01,198 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:05:01
+2017-04-10 11:05:12,998 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:05:01
+2017-04-10 11:05:13,000 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:05:13,009 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:05:01
+2017-04-10 11:11:22,293 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:11:22
+2017-04-10 11:11:33,329 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:11:22
+2017-04-10 11:11:33,329 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:11:33,337 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:11:22
+2017-04-10 11:20:56,313 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:20:56
+2017-04-10 11:21:04,583 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:20:56
+2017-04-10 11:21:04,583 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:21:04,589 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:20:56
+2017-04-10 11:29:29,961 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:29:29
+2017-04-10 11:29:38,278 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:29:29
+2017-04-10 11:29:38,281 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:29:38,288 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:29:29
+2017-04-10 11:31:20,966 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:31:20
+2017-04-10 11:31:29,169 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:31:20
+2017-04-10 11:31:29,169 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:31:29,174 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:31:20
+2017-04-10 11:32:57,632 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:32:57
+2017-04-10 11:33:06,996 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:32:57
+2017-04-10 11:33:06,997 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:33:07,003 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:32:57
+2017-04-10 11:37:04,660 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:37:04
+2017-04-10 11:37:13,410 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:37:04
+2017-04-10 11:37:13,411 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:37:13,417 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:37:04
+2017-04-10 11:39:38,335 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:39:38
+2017-04-10 11:39:46,284 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:39:38
+2017-04-10 11:39:46,284 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:39:46,290 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:39:38
+2017-04-10 11:42:20,469 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 11:42:20
+2017-04-10 11:42:29,218 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 11:42:20
+2017-04-10 11:42:29,221 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 11:42:29,226 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 11:42:20
+2017-04-10 12:33:49,619 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 12:33:49
+2017-04-10 12:33:58,981 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 12:33:49
+2017-04-10 12:33:58,984 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 12:33:58,989 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 12:33:49
+2017-04-10 12:36:29,308 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 12:36:29
+2017-04-10 12:36:38,527 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 12:36:29
+2017-04-10 12:36:38,528 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 12:36:38,533 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 12:36:29
+2017-04-10 12:38:36,936 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 12:38:36
+2017-04-10 12:38:44,792 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 12:38:36
+2017-04-10 12:38:44,793 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 12:38:44,799 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 12:38:36
+2017-04-10 12:44:27,911 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 12:44:27
+2017-04-10 12:44:36,186 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 12:44:27
+2017-04-10 12:44:36,187 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 12:44:36,194 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 12:44:27
+2017-04-10 12:46:38,085 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 12:46:37
+2017-04-10 12:46:46,520 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 12:46:37
+2017-04-10 12:46:46,525 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 12:46:46,536 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 12:46:37
+2017-04-10 12:48:20,805 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 12:48:20
+2017-04-10 12:48:30,586 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 12:48:20
+2017-04-10 12:48:30,589 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 12:48:30,595 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 12:48:20
+2017-04-10 13:02:26,970 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:02:26
+2017-04-10 13:02:36,576 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:02:26
+2017-04-10 13:02:36,577 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:02:36,583 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:02:26
+2017-04-10 13:05:18,233 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:05:18
+2017-04-10 13:05:26,703 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:05:18
+2017-04-10 13:05:26,704 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:05:26,715 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:05:18
+2017-04-10 13:08:19,263 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:08:19
+2017-04-10 13:08:28,145 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:08:19
+2017-04-10 13:08:28,147 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:08:28,153 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:08:19
+2017-04-10 13:16:17,131 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:16:17
+2017-04-10 13:16:25,878 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:16:17
+2017-04-10 13:16:25,880 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:16:25,889 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:16:17
+2017-04-10 13:18:59,048 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:18:58
+2017-04-10 13:19:07,991 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:18:58
+2017-04-10 13:19:07,993 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:19:07,999 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:18:58
+2017-04-10 13:23:55,680 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:23:55
+2017-04-10 13:24:07,354 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:23:55
+2017-04-10 13:24:07,354 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:24:07,359 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:23:55
+2017-04-10 13:28:12,029 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:28:11
+2017-04-10 13:28:21,322 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:28:11
+2017-04-10 13:28:21,323 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:28:21,328 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:28:11
+2017-04-10 13:28:31,858 [main] INFO seltest12.testSeltest - EnterStatus Profile page...completed at:2017/04/10 13:28:11
+2017-04-10 13:31:46,136 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:31:46
+2017-04-10 13:31:55,556 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:31:46
+2017-04-10 13:31:55,556 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:31:55,564 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:31:46
+2017-04-10 13:32:30,007 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:32:29
+2017-04-10 13:32:40,792 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:32:29
+2017-04-10 13:32:40,792 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:32:40,797 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:32:29
+2017-04-10 13:33:29,183 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 13:33:29
+2017-04-10 13:33:38,195 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 13:33:29
+2017-04-10 13:33:38,198 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 13:33:38,204 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 13:33:29
+2017-04-10 13:33:49,048 [main] INFO seltest12.testSeltest - EnterStatus Profile page...completed at:2017/04/10 13:33:29
+2017-04-10 16:13:03,433 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 16:13:03
+2017-04-10 16:13:12,491 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 16:13:03
+2017-04-10 16:13:12,492 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 16:13:12,498 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 16:13:03
+2017-04-10 16:13:26,216 [main] INFO seltest12.testSeltest - EnterStatus Profile page...completed at:2017/04/10 16:13:03
+2017-04-10 16:15:27,141 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 16:15:27
+2017-04-10 16:15:36,035 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 16:15:27
+2017-04-10 16:15:36,037 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 16:15:36,046 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 16:15:27
+2017-04-10 16:15:50,413 [main] INFO seltest12.testSeltest - EnterStatus Profile page...completed at:2017/04/10 16:15:27
+2017-04-10 16:19:01,540 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 16:19:01
+2017-04-10 16:19:11,568 [main] INFO seltest12.testSeltest - LoginFB...completed at:2017/04/10 16:19:01
+2017-04-10 16:19:11,570 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 16:19:11,574 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 16:19:01
+2017-04-10 16:19:25,351 [main] INFO seltest12.testSeltest - EnterStatus Profile page...completed at:2017/04/10 16:19:01
+2017-04-10 16:19:25,356 [main] INFO seltest12.testProfile - Test3 method testStatusEntry started at CURRENTTIME of : 2017/04/10 16:19:01
+2017-04-10 16:52:17,586 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 16:52:17
+2017-04-10 16:52:27,190 [main] INFO seltest12.testSeltest - LoginFB was ...completed at:2017/04/10 16:52:17
+2017-04-10 16:52:27,191 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 16:52:27,195 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 16:52:17
+2017-04-10 16:52:41,333 [main] INFO seltest12.testSeltest - EnterStatus Profile page...completed at:2017/04/10 16:52:17
+2017-04-10 16:52:41,340 [main] INFO seltest12.testProfile - Test3 method testStatusEntry started at CURRENTTIME of : 2017/04/10 16:52:17
+2017-04-10 16:56:16,821 [main] INFO seltest12.testSeltest - Test1 method testLogingFB started at CURRENTTIME of : 2017/04/10 16:56:16
+2017-04-10 16:56:25,554 [main] INFO seltest12.testSeltest - LoginFB was ...completed at:2017/04/10 16:56:16
+2017-04-10 16:56:25,556 [main] ERROR seltest12.testSeltest - logger error
+2017-04-10 16:56:25,560 [main] INFO seltest12.testSeltest - Test2 method testStatusEntry started at CURRENTTIME of testSeltest2017/04/10 16:56:16
+2017-04-10 16:56:38,742 [main] INFO seltest12.testSeltest - EnterStatus Profile page...completed at:2017/04/10 16:56:16
+2017-04-10 16:56:38,748 [main] INFO seltest12.testProfile - Test3 method testStatusEntry started at CURRENTTIME of : 2017/04/10 16:56:16

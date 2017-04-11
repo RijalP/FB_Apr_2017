@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23364" started-at="2017-04-10T20:15:27Z" finished-at="2017-04-10T20:15:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23364" started-at="2017-04-10T20:15:27Z" finished-at="2017-04-10T20:15:50Z">
+      <class name="seltest12.testSeltest">
+        <test-method status="PASS" signature="testLoginFB()[pri:0, instance:seltest12.testSeltest@3c0ecd4b]" name="testLoginFB" duration-ms="8975" started-at="2017-04-10T16:15:27Z" finished-at="2017-04-10T16:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFB -->
+        <test-method status="PASS" signature="testStatusEntry()[pri:0, instance:seltest12.testSeltest@3c0ecd4b]" name="testStatusEntry" duration-ms="14372" started-at="2017-04-10T16:15:36Z" finished-at="2017-04-10T16:15:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusEntry -->
+      </class> <!-- seltest12.testSeltest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
